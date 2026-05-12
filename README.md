@@ -4,7 +4,7 @@
 
 ### MBA @ IIM Ranchi • Aspiring Product Manager • AI-Native Builder
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+AI-Native+Products;Designing+Automation+Workflows;Exploring+Behavioral+Systems;Shipping+Product+Experiences" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=450&lines=Building+AI-Native+Products;Designing+Automation+Workflows;Exploring+Behavioral+Systems;Shipping+Product+Experiences" />
 
 <br>
 
@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/Automation-Workflows-F97316?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Status-Building%20%26%20Learning-black?style=for-the-badge"/>
 
-<br><br>
+<br>
 
 > *“I enjoy building products that feel immersive, intelligent, and genuinely useful.”*
 
@@ -49,10 +49,9 @@ Focus Areas:
 <table>
 <tr>
 
-<td width="50%">
+<td width="30%">
 
 ## 🎬 Aura CineTrack
-
 Immersive cinematic journaling and movie intelligence platform.
 
 ### Highlights
@@ -61,9 +60,7 @@ Immersive cinematic journaling and movie intelligence platform.
 - ⚡ Quick Log System
 - 😊 Mood-based Discovery
 - 🏆 Gamified Exploration
-
-<br>
-
+  
 🔗 Repository  
 https://github.com/arunjyoti-kalita/Aura-CineTrack
 
@@ -81,9 +78,7 @@ AI-native behavioral wellness system focused on sustainable consistency.
 - 🍛 South Asian Diet Intelligence
 - 📈 Gamified Progress Systems
 - ⚡ AI-assisted Product Development
-
-<br>
-
+  
 🔗 Repository  
 https://github.com/arunjyoti-kalita/Aura-Pulse90
 
@@ -105,9 +100,7 @@ Execution-focused productivity and operational intelligence system.
 - 📊 Execution Dashboards
 - 🤖 AI-assisted Operations
 - 🧠 Velocity-focused UX
-
-<br>
-
+  
 🔗 Repository  
 https://github.com/arunjyoti-kalita/Aura-Velocity
 
@@ -125,9 +118,7 @@ AI-powered career intelligence & workflow automation.
 - 📬 Automated Gmail Reports
 - 🌐 Chrome Extension
 - ⚡ n8n Workflow Automation
-
-<br>
-
+  
 🔗 Repository  
 https://github.com/arunjyoti-kalita/RoleMatch-AI
 
@@ -150,9 +141,7 @@ AI-powered PM insight engine transforming customer reviews into structured produ
 - Stakeholder-ready reporting
 - Multilingual review clustering
 - n8n workflow orchestration
-
-<br>
-
+  
 🔗 Repository  
 https://github.com/arunjyoti-kalita/AI-App-Review-Intelligence
 
@@ -172,8 +161,6 @@ https://github.com/arunjyoti-kalita/AI-App-Review-Intelligence
 <img src="https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google"/>
 <img src="https://img.shields.io/badge/Google_Antigravity-AI-8E75FF?style=for-the-badge"/>
 
-<br><br>
-
 ## ⚡ AI-Native Tools
 
 <img src="https://img.shields.io/badge/Lovable-AI%20UX-FF69B4?style=for-the-badge"/>
@@ -183,8 +170,6 @@ https://github.com/arunjyoti-kalita/AI-App-Review-Intelligence
 <img src="https://img.shields.io/badge/Cursor-AI%20Coding-6E56CF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Vercel-Deployment-black?style=for-the-badge&logo=vercel"/>
 <img src="https://img.shields.io/badge/Firebase-Backend-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-
-<br><br>
 
 
 </div>
@@ -205,12 +190,6 @@ https://github.com/arunjyoti-kalita/AI-App-Review-Intelligence
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=arunjyoti-kalita&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunjyoti-kalita&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=arunjyoti-kalita&theme=tokyonight&hide_border=true"/>
 
 </div>
@@ -221,28 +200,105 @@ https://github.com/arunjyoti-kalita/AI-App-Review-Intelligence
 
 # 👨‍💻 Author
 
-<br>
-
 ## Arunjyoti Kalita
 
 🎓 MBA (Marketing & Strategy) — IIM Ranchi  
 🚀 Aspiring Product Manager | AI & Automation Builder  
-⚡ Exploring AI-native products, cinematic UX systems, and behavior-driven digital experiences
 
-<br><br>
+<div align="center">
+<table>
+<tr>
+
+<td align="center">
+<a href="https://linkedin.com/in/arun-kalita">
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</td>
+
+<td align="center">
+<a href="https://github.com/arunjyoti-kalita">
+<img src="https://img.shields.io/badge/GITHUB-PORTFOLIO-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</td>
+
+</tr>
+</table>
+</div>
+
+</div>
+
+---
 
 <div align="center">
 
-<a href="https://linkedin.com/in/arun-kalita">
-  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+# ⚡ Let’s Build Something Meaningful
 
-&nbsp;&nbsp;&nbsp;
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=AI-Native+Product+Builder;Automation+Workflow+Explorer;Product+Thinking+%2B+Execution;Building+Immersive+Digital+Experiences" />
 
-<a href="https://github.com/arunjyoti-kalita">
-  <img src="https://img.shields.io/badge/GITHUB-PORTFOLIO-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<br>
 
-</div>
+---
+
+<div align="center">
+
+## ⚡ Currently Building & Exploring
+
+<br>
+
+<table>
+<tr>
+
+<td align="center" width="20%">
+
+### 🧠 AI Systems
+
+Workflow orchestration  
+Prompt systems  
+AI-native UX
+
+</td>
+
+<td align="center" width="20%">
+
+### 🚀 Product Thinking
+
+Behavior systems  
+Gamification  
+User experience
+
+</td>
+
+<td align="center" width="20%">
+
+### ⚡ Automation
+
+n8n workflows  
+Operational tooling  
+Execution systems
+
+</td>
+
+<td align="center" width="25%">
+
+### 🎬 Creative Experiences
+
+Cinematic UX  
+Immersive interfaces  
+Story-driven products
+
+</td>
+
+</tr>
+</table>
+
+
+<img src="https://img.shields.io/badge/Currently-Learning-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI-Native%20Products-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Workflow-Automation-F97316?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Product-Storytelling-black?style=for-the-badge"/>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:6D28D9,100:2563EB&height=100&section=footer"/>
 
 </div>
