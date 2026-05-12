@@ -231,17 +231,16 @@ https://github.com/arunjyoti-kalita/AI-App-Review-Intelligence
 
 <div align="center">
 
-# ⚡ Let’s Build Something Meaningful
+# ⚡ Let’s Build Something Meaningful Together
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=AI-Native+Product+Builder;Automation+Workflow+Explorer;Product+Thinking+%2B+Execution;Building+Immersive+Digital+Experiences" />
 
-<br>
 
 ---
 
 <div align="center">
 
-## ⚡ Currently Building & Exploring
+## ⚡ Currently  Exploring
 
 <br>
 
