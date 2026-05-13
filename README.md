@@ -185,6 +185,7 @@ https://github.com/arunjyoti-kalita/AI-App-Review-Intelligence
 - Exploring automation-driven experiences
 
 ---
+<!-- 
 
 ## 📊 GitHub Analytics
 
@@ -196,6 +197,7 @@ https://github.com/arunjyoti-kalita/AI-App-Review-Intelligence
 
 </div>
 
+-->
 ---
 
 <div align="center">
