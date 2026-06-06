@@ -243,7 +243,7 @@ https://github.com/arunjyoti-kalita/AI-App-Review-Intelligence
 
 <div align="center">
 
-### ⚡ Currently Exploring
+### ⚡  Exploring
 s
 <table>
 <tr>
